@@ -1,6 +1,9 @@
 # app/controllers/jwt_engin/auth_controller.rb
 module JwtEngin
   class AuthController < ApplicationController
+    def index
+
+    end
     def create
       user = User.find_by(email: params[:email])
       if user&.authenticate(params[:password])

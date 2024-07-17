@@ -1,3 +1,4 @@
+require 'rails'
 module JwtEngin
   class Engine < ::Rails::Engine
     isolate_namespace JwtEngin

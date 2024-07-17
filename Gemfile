@@ -16,3 +16,4 @@ gem "jwt"
 gem 'bcrypt'
 gem 'faraday'
 gem 'faraday-multipart'
+gem "rails", "~> 7.1.3.4"
