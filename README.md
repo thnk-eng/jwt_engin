@@ -1,8 +1,4 @@
 # JwtEngin
-Short description and motivation.
-
-## Usage
-How to use my plugin.
 
 ## Installation
 Add this line to your application's Gemfile:
@@ -21,7 +17,7 @@ Or install it yourself as:
 $ gem install jwt_engin
 ```
 
-## main app
+## Usage
 
 ```ruby
 # Gemfile
